@@ -1,21 +1,53 @@
-# E-commerce Sales Analysis SQL Project 🛒  
+# 🛍️ E-Commerce Sales Analysis  
 
-![Data Model](path/to/your/image.png)  
+![Data Model](./data_model.png)  
 
 ## 📌 Project Overview  
 
-This project focuses on analyzing e-commerce sales data using SQL. The goal is to extract valuable insights related to customer behavior, product performance, and overall sales trends.  
+This project focuses on analyzing an **E-Commerce Sales Database** using SQL to extract meaningful insights and improve business decision-making.  
+By structuring, querying, and analyzing sales data, we uncover trends related to products, customers, and stores.  
 
-## 🛠️ Tech Stack  
-- **Database**: MySQL  
-- **Schema Design**: Created using [dbdiagram.io](https://dbdiagram.io/)  
-- **Querying & Analysis**: SQL  
+## 🏗️ Database Structure  
 
-## 📊 Key Features  
+The database consists of the following tables:  
 
-🔹 **Database Design** – Structured a relational database for an e-commerce platform, defining key entities and relationships.  
-🔹 **Data Cleaning** – Standardized and refined raw data to ensure accuracy and consistency.  
-🔹 **Exploratory Data Analysis (EDA)** – Performed an in-depth analysis to uncover trends in customer purchases and store performance.  
-🔹 **Business Insights** – Identified key performance indicators such as top-selling products, revenue trends, and customer engagement patterns.  
+- **customers** – Stores customer details such as name, email, and phone.  
+- **products** – Contains product information, including category and price.  
+- **orders** – Holds sales transaction details, including customer purchases, quantity, and total amount.  
+- **date_dim** – Provides date-related breakdowns for time-based analysis.  
+- **stores** – Contains store location details for regional sales insights.  
 
-## 📂 Folder Structure  
+## 📈 Key Insights  
+
+🔹 **Best-Selling Products** – Identified top products based on sales volume and revenue.  
+🔹 **Sales Seasonality** – Analyzed peak months and seasonal demand patterns.  
+🔹 **Customer Segmentation** – Grouped customers based on purchasing behavior and frequency.  
+🔹 **Store Performance** – Determined which locations generate the highest revenue.  
+🔹 **Revenue Trends** – Tracked sales performance over time to identify growth areas.  
+🔹 **High-Value Customers** – Recognized top-spending customers contributing significantly to revenue.  
+🔹 **Sales Distribution** – Analyzed order frequency and average order value (AOV).  
+🔹 **Product Category Insights** – Found which categories drive the most revenue.  
+🔹 **Regional Sales Analysis** – Compared performance across different store locations.  
+🔹 **Discount & Promotion Impact** – Measured how discounts influence customer purchases.  
+
+## 🚀 Skills Used  
+
+✔ SQL Queries (Joins, Aggregations, CTEs, Window Functions)  
+✔ Data Cleaning & Transformation  
+✔ Business Intelligence & Data-Driven Decision Making  
+✔ Time Series Analysis  
+
+## 📂 Project Resources  
+
+- **Database Schema**: [dbdiagram.io](https://dbdiagram.io) (Used for designing the database model)  
+- **Tools Used**: MySQL, SQL Workbench, Excel for additional analysis  
+
+## 🔗 Connect with Me  
+
+If you found this project insightful, let’s connect! Feel free to reach out for discussions or collaborations.  
+
+---
+  
+⭐ **GitHub Repository:** [Your Repo Link Here]  
+📧 **Email:** [Your Email Here]  
+💼 **LinkedIn:** [Your LinkedIn Profile]  
