@@ -1,6 +1,6 @@
 # 🛍️ E-Commerce Sales Analysis  
 
-![Data Model](./data_model.png)  
+![Data Model](https://github.com/jubairt/Ecommerce_Sql_Project/blob/main/DataModeling.png)  
 
 ## 📌 Project Overview  
 
@@ -20,34 +20,25 @@ The database consists of the following tables:
 ## 📈 Key Insights  
 
 🔹 **Best-Selling Products** – Identified top products based on sales volume and revenue.  
-🔹 **Sales Seasonality** – Analyzed peak months and seasonal demand patterns.  
-🔹 **Customer Segmentation** – Grouped customers based on purchasing behavior and frequency.  
-🔹 **Store Performance** – Determined which locations generate the highest revenue.  
-🔹 **Revenue Trends** – Tracked sales performance over time to identify growth areas.  
+🔹 **Store Performance** – Determined which locations generate the highest revenue.   
 🔹 **High-Value Customers** – Recognized top-spending customers contributing significantly to revenue.  
-🔹 **Sales Distribution** – Analyzed order frequency and average order value (AOV).  
 🔹 **Product Category Insights** – Found which categories drive the most revenue.  
 🔹 **Regional Sales Analysis** – Compared performance across different store locations.  
-🔹 **Discount & Promotion Impact** – Measured how discounts influence customer purchases.  
+ 
 
 ## 🚀 Skills Used  
 
-✔ SQL Queries (Joins, Aggregations, CTEs, Window Functions)  
-✔ Data Cleaning & Transformation  
+✔ SQL Queries (Joins, Aggregations, CTEs)  
 ✔ Business Intelligence & Data-Driven Decision Making  
 ✔ Time Series Analysis  
 
 ## 📂 Project Resources  
 
 - **Database Schema**: [dbdiagram.io](https://dbdiagram.io) (Used for designing the database model)  
-- **Tools Used**: MySQL, SQL Workbench, Excel for additional analysis  
+- **Tools Used**: MySQL, SQL Workbench
 
-## 🔗 Connect with Me  
+## 📌 Conclusion  
 
-If you found this project insightful, let’s connect! Feel free to reach out for discussions or collaborations.  
-
----
-  
-⭐ **GitHub Repository:** [Your Repo Link Here]  
-📧 **Email:** [Your Email Here]  
-💼 **LinkedIn:** [Your LinkedIn Profile]  
+This project provided valuable insights into **e-commerce sales trends**, customer behavior, and store performance.  
+By leveraging SQL for **data extraction and analysis**, we identified **revenue-driving products**, optimized sales strategies, and discovered **growth opportunities**.  
+The findings can be used by businesses to **enhance marketing strategies, improve customer engagement, and maximize profitability**.
